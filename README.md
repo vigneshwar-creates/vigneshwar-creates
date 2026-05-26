@@ -38,7 +38,8 @@
   <tr style="border: none;">
     <td align="center" width="100%" style="border: none;">
       <b>my tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,spring,mysql,postgres,mongodb,git,docker,aws" alt="tools" />
+      <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,html,css,blender,ps,ae" alt="tools" /><br><br>
+      <p style="color: #999999; font-size: 12px;">also experienced with: jupyter notebook, blockbench, celtx</p>
     </td>
   </tr>
 </table>
