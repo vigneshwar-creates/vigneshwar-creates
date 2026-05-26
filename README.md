@@ -3,12 +3,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=500&lines=clean+code;ai+writes+my+code;i+take+the+credit" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=500&lines=clean+code;ai+is+my+intern;i+ship+fast;work+smart+not+hard" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  i write code for the internet. my work is solid. i let ai solve all the hard problems while i sit back and take the credit.
+  i make things for the internet. i treat ai like my sidekick to write code faster. work smart, not hard.
 </p>
 
 <br/>
