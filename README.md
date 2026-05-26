@@ -24,3 +24,12 @@
   <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,python,html,css,blender,ps,ae" alt="tools" /><br><br>
   <p style="color: #999999; font-size: 12px;">also experienced with: jupyter notebook, blockbench, celtx</p>
 </div>
+
+<br/>
+
+<div align="center">
+  <b>my trophies</b><br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vigneshwar-creates&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="trophies" />
+  </a>
+</div>
