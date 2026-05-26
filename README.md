@@ -28,8 +28,21 @@
 <br/>
 
 <div align="center">
+  <b>my github streak</b><br><br>
+  <img src="https://streak-stats.demolab.com?user=vigneshwar-creates&theme=onedark&hide_border=true&background=000000" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
   <b>my trophies</b><br><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vigneshwar-creates&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="trophies" />
   </a>
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="daily quote" />
+</p>
